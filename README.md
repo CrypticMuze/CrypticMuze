@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
 
-- 👷‍♂️ I'm currently part of the following organizations: **TEDxVITVellore** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
+- 👷‍♂️ I'm currently part of the following organizations: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
 - 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development**
 
