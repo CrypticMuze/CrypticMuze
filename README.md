@@ -6,9 +6,12 @@
 <p align="center"><b>
 A 21 Y/O Software and Web developer from India. I'm passionate about Full-Stack Web Development and integration of blockchain into emerging industries. I like automating things, exploring scalability problems and improving efficiency and performance. I am a strong Advocate for OSS, Cloud computing, DevOps, Blockchain, AI, ML, Innovation and Automation. 
 
+
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Pune-3c9)
+![education](https://img.shields.io/badge/college-VIT,Vellore-red)
+![hobbies](https://img.shields.io/badge/hobbies-TT,Reading,Singing,Designing-purple)
 </b></p>
 
 ## 🙋‍♂️ About Me
