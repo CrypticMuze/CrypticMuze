@@ -4,12 +4,12 @@
 <h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
 
 <p align="center"><b>
-A 21 Y/O Software and Web developer from India. I'm passionate about Full-Stack Web Development and integration of blockchain into emerging industries. I like automating things, exploring scalability problems and improving efficiency and performance. I am a strong Advocate for OSS, Cloud computing, DevOps, Blockchain, AI, ML, Innovation and Automation. </b></p>
-
+A 21 Y/O Software and Web developer from India. I'm passionate about Full-Stack Web Development and integration of blockchain into emerging industries. I like automating things, exploring scalability problems and improving efficiency and performance. I am a strong Advocate for OSS, Cloud computing, DevOps, Blockchain, AI, ML, Innovation and Automation. 
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Pune-3c9)
+</b></p>
 
 ## 🙋‍♂️ About Me
 
@@ -83,16 +83,16 @@ A 21 Y/O Software and Web developer from India. I'm passionate about Full-Stack 
 
 ## Connect with me:
 <p align="center">
-<a href = "mailto:a.anand2k19@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-<a href = "https://github.com/CrypticMuze"><img src="https://img.icons8.com/nolan/64/github.png"/></a>
-<a href = "https://www.instagram.com/aman_anand_619/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.linkedin.com/in/amanxanand/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://medium.com/@InelegantMusings"><img src="https://img.icons8.com/nolan/64/medium-new.png"/></a>
-<a href = "https://twitter.com/InelegantMuse"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "mailto:a.anand2k19@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png" width="48" height="48"/></a>
+<a href = "https://github.com/CrypticMuze"><img src="https://img.icons8.com/nolan/64/github.png" width="48" height="48"/></a>
+<a href = "https://www.instagram.com/aman_anand_619/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="48" height="48"/></a>
+<a href = "https://www.linkedin.com/in/amanxanand/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48"/></a>
+<a href = "https://medium.com/@InelegantMusings"><img src="https://img.icons8.com/nolan/64/medium-new.png" width="48" height="48"/></a>
+<a href = "https://twitter.com/InelegantMuse"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48" height="48"/></a>
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=CrypticMuze">
-</a>
+## Views and Followers
+<p align="center">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=CrypticMuze"></a>
 <a href="https://github.com/CrypticMuze?tab=followers"><img src="https://img.shields.io/github/followers/CrypticMuze?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
