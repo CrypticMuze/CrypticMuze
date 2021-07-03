@@ -25,6 +25,7 @@
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
+    <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -46,7 +47,7 @@
     <a href="https://www.r-project.org/about.html" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/circled-r.png" alt="R Language" width="48" height="48"/></a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" width="40" height="40"/> </a>
-    
+
 </p>
 <br/>
 
