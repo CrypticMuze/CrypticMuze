@@ -1,6 +1,6 @@
 <a href="#"><img width="125%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">नमस्ते (Namaste), <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CypticMuze</i></h1>
+<h1 align="center">नमस्ते (Namaste), <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
 <h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
 
 
