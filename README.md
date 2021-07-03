@@ -6,13 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🏫 I'm currenlty pursuing my **B.Tech UG Degree** from **Vellore Institute of Technology, Vellore**
+- 🏫 I'm currenlty pursuing my **B.Tech UG Degree** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/)**
 
 - 🏢 I'm currently employed as a **Developer (Internship)** at **[Wharf Street Strategies](https://wharfstreetstrategies.com/)**
 
-- 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
 
-- 👷‍♂️ I'm currently part of the following organizations: **TEDxVITVellore** || **Entrepreneurship Cell, VIT Vellore** || **VIT Today**
+- 👷‍♂️ I'm currently part of the following organizations: **TEDxVITVellore** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
 - 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development**
 
