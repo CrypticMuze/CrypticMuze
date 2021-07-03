@@ -3,6 +3,12 @@
 <h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
 <h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
 
+A 21Y/O Software and Web developer from India. I'm passionate about Full-Stack Web Development and integration of blockchain into emerging industries. I like automating things, exploring scalability problems and improving efficiency and performance. I am a strong Advocate for OSS, Cloud computing, DevOps, Blockchain, AI, ML, Innovation and Automation.  
+
+
+![age](https://img.shields.io/badge/age-21-blue)
+![focus](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
+![living](https://img.shields.io/badge/living-Pune-3c9)
 
 ## 🙋‍♂️ About Me
 
@@ -76,7 +82,6 @@
 
 ## Connect with me:
 <p align="center">
-
 <a href = "https://www.linkedin.com/in/amanxanand/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/InelegantMuse"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/aman_anand_619/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
