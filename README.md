@@ -1,6 +1,6 @@
 <a href="#"><img width="125%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">नमस्ते (Namaste), <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
+<h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
 <h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
 
 
@@ -24,7 +24,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="40" height="40"/> </a>
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
