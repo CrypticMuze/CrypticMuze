@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
 
 <p align="center"><b>
-A 21 Y/O Software and Web developer from India. I'm passionate about Full-Stack Web Development and integration of blockchain into emerging industries. I like automating things, exploring scalability problems and improving efficiency and performance. I am a strong Advocate for OSS, Cloud computing, DevOps, Blockchain, AI, ML, Innovation and Automation. 
+I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, DL(CNN/NLP). I'm passionate about the different ways emerging industries can leverage blockchain and AI to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems and improve the efficiency and performance of algorithms. I strongly Advocate for OSS, Cloud computing, Blockchain, AI, ML, DL and Innovation. 
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
