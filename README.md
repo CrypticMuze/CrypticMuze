@@ -91,6 +91,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 <a href = "https://www.instagram.com/aman_anand_619/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="48" height="48"/></a>
 <a href = "https://www.linkedin.com/in/amanxanand/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="48" height="48"/></a>
 <a href = "https://medium.com/@InelegantMusings"><img src="https://img.icons8.com/nolan/64/medium-new.png" width="48" height="48"/></a>
+<a href = "https://www.snapchat.com/add/aman_anand1906"><img src="https://img.icons8.com/fluent/50/000000/snapchat.png"/></a>
 <a href = "https://twitter.com/InelegantMuse"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="48" height="48"/></a>
 </p>
 
