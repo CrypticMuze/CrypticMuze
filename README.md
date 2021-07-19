@@ -9,10 +9,10 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
-![focus#2](https://img.shields.io/badge/focus-Web_Development-brightorange)
+![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
 ![living](https://img.shields.io/badge/living-Pune-3c9)
 ![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
-![hobbies](https://img.shields.io/badge/hobbies-TT,_Reading,_Singing,_Designing-purple)
+![hobbies](https://img.shields.io/badge/hobbies-TT,_Reading,_Singing,_Gaming-purple)
 </b></p>
 
 ## 🙋‍♂️ About Me
