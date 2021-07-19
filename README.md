@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
 
 <p align="center"><b>
-I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, DL(CNN/NLP). I'm passionate about the different ways emerging industries can leverage blockchain and AI to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems and improve the efficiency and performance of algorithms. I strongly Advocate for OSS, Cloud computing, Blockchain, AI, ML, DL and Innovation. 
+I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, DL(CNN/NLP). I'm passionate about the different ways emerging industries can leverage blockchain and AI to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms. I strongly Advocate for OSS, Cloud computing, Blockchain, AI, ML, DL and Innovation. 
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -80,7 +80,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 <br/>
 <br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Aman Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrypticMuze&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Aman Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrypticMuze&theme=redical&hide_border=true&area=true&area_color=0839c4" /></a>
 
 <br/>
 <br/>
