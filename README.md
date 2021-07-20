@@ -25,13 +25,11 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 
 - 👷‍♂️ I'm currently part of the following organizations: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
-- 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development**
+- 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development (MERN based), Django based backend**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **a.anand2k19@gmail.com**
-
-- ⚡ Fun fact **I'm a highly proficient Table Tennis player and have a dream to visit every country of the world atleast once.**
+- 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
 ## 🚀 Languages and Tools:
 
