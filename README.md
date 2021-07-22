@@ -69,7 +69,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CrypticMuze&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CrypticMuze&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aman Anand's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticMuze&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
