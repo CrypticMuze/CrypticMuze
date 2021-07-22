@@ -13,7 +13,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 ![living](https://img.shields.io/badge/living-Pune-3c9)
 ![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
 ![hobbies](https://img.shields.io/badge/hobbies-TT,_Reading,_Singing,_Gaming-purple)
-![](https://gitwar.herokuapp.com/badge?username=CrypticMuze&color=red&style=flat-square&label=GITWAR+PROFILE+SCORE)
+![GitWAR Profile Score](https://gitwar.herokuapp.com/badge?username=CrypticMuze&color=red&style=flat-square&label=GITWAR+PROFILE+SCORE)
 </b></p>
 
 ## 🙋‍♂️ About Me
