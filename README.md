@@ -98,4 +98,5 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=CrypticMuze"></a>
 <a href="https://github.com/CrypticMuze?tab=followers"><img src="https://img.shields.io/github/followers/CrypticMuze?label=Followers&style=social" alt="GitHub Badge"></a>
+![GitWar Profile Score](https://gitwar.herokuapp.com/badge?username=CrypticMuze&color=red&style=flat-square)
 </p>
