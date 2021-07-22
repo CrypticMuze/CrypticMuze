@@ -78,10 +78,8 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Aman Anand's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=CrypticMuze&theme=redical&hide_border=true&area=true&area_color=0839c4" /></a>
 
 <br/>
-<br/>
-<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<p align="center">
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </p>
 
 ## Connect with me:
 <p align="center">
