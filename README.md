@@ -40,7 +40,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/docker.png"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/docker.png" alt="Docker" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://golang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png" alt="GoLang" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -56,6 +56,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://www.r-project.org/about.html" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/circled-r.png" alt="R Language" width="48" height="48"/></a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="R Language" width="40" height="40"/> </a>
     <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" width="40" height="40"/> </a>
 
 </p>
