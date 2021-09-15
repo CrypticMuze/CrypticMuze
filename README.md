@@ -19,13 +19,13 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, 
 
 - 🏫 I'm currenlty pursuing my **B.Tech UG Degree** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/)**
 
-- 🏢 I'm currently employed as a **Developer (Internship)** at **[Wharf Street Strategies](https://wharfstreetstrategies.com/)**
+<!-- - 🏢 I'm currently employed as a **Developer (Internship)** at **[Wharf Street Strategies](https://wharfstreetstrategies.com/)** -->
 
-- 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
+<!-- - 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)** -->
 
 - 👷‍♂️ I'm currently part of the following organizations: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
-- 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development (MERN based), Django based backend**
+- 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development (MERN based), Django and Node based backend**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
