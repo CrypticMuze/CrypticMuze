@@ -1,10 +1,10 @@
 <a href="#"><img width="125%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
-<h3 align="center">I'm a passionate AI, ML and Blockchain enthusiast from India.</h3>
+<h3 align="center">I'm a passionate AI, ML, Blockchain and MERN developer from India.</h3>
 
 <p align="center"><b>
-I am a 21 Y/O Software developer from India with a focus in Blockchain, AI, ML, DL(CNN/NLP). I'm passionate about the different ways emerging industries can leverage blockchain and AI to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms. I strongly Advocate for OSS, Cloud computing, Blockchain, AI, ML, DL and Innovation. 
+I am a 21 Y/O Software developer from India with a focus in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for web development. I'm passionate about the different ways emerging industries can leverage blockchain and AI to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms. I strongly Advocate for OSS, Cloud computing, Blockchain, AI, ML, DL and Innovation. 
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
