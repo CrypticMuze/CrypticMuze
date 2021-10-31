@@ -10,8 +10,8 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 ![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
 ![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
 ![focus#3](https://img.shields.io/badge/focus-Machine_Learning-purple)
-![living](https://img.shields.io/badge/living-Pune-3c9)
-![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
+![living](https://img.shields.io/badge/living-Pune,_MH-3c9)
+![education](https://img.shields.io/badge/college-VIT,_Vellore,_TN-red)
 </b></p>
 
 ## 🙋‍♂️ About Me
