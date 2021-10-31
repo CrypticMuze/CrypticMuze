@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate AI, ML, Blockchain and MERN developer from India.</h3>
 
 <p align="center"><b>
-I am a 21 Y/O Software developer from India with a focus in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for web development. I'm passionate about the different ways emerging industries can leverage blockchain and AI to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms. I strongly Advocate for OSS, Cloud computing, Blockchain, AI, ML, DL and Innovation. 
+I am a 21 Y/O Software developer from India experienced in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for full-stack web development. I'm passionate about the different ways emerging industries can leverage emerging technologies to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms.
 
 
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -12,7 +12,6 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain Smart Con
 ![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
 ![living](https://img.shields.io/badge/living-Pune-3c9)
 ![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
-![hobbies](https://img.shields.io/badge/hobbies-TT,_Reading,_Singing,_Gaming-purple)
 </b></p>
 
 ## 🙋‍♂️ About Me
@@ -25,14 +24,34 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain Smart Con
 
 - 👷‍♂️ I'm currently part of the following organizations: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
-- 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development (MERN based), Django and Node based backend**
+- 🌱 I’m currently learning **Blockchain Smart COntract Development using Solidity, Basics of Machine Learning**
 
-- 👯 I’m looking to collaborate on **OpenSource & Blockchain Projects**
+- 👯 I’m looking to collaborate on **OpenSource, Blockchain and Projects leveraging emerging technologies**
 
 - 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
 ## 🚀 Languages and Tools:
-
+- **Programming Languages**
+    <center>   
+		<table>
+			<tbody>
+				<tr>
+					<td width="25%" align="center">
+						<span><strong>C++</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+					</td>
+					<td width="25%" align="center">
+						<span><strong>Java</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>Python</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/python.png">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
 <p align="center"> 
     <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
