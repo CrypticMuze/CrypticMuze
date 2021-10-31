@@ -82,8 +82,8 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
 					</td>
                     <td width="25%" align="center">
-						<span><strong>React.js</strong></span><br/>
-						<img height="64px" width="120px" src="https://img.icons8.com/color/48/000000/react-native.png">
+						<span><strong>React.js & Native</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
 					</td>
                 </tr>
                 <tr>
