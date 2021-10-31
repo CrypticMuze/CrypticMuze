@@ -6,12 +6,13 @@
 <p align="center"><b>
 I am a 21 Y/O Software developer from India experienced in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for full-stack web development. I'm passionate about the different ways emerging industries can leverage emerging technologies to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms.
 
-
-![age](https://img.shields.io/badge/age-21-blue)
-![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
-![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
-![living](https://img.shields.io/badge/living-Pune-3c9)
-![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
+<center>
+    ![age](https://img.shields.io/badge/age-21-blue)
+    ![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
+    ![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
+    ![living](https://img.shields.io/badge/living-Pune-3c9)
+    ![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
+</center>
 </b></p>
 
 ## 🙋‍♂️ About Me
@@ -24,7 +25,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 - 👷‍♂️ I'm currently part of the following organizations: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
-- 🌱 I’m currently learning **Blockchain Smart COntract Development using Solidity, Basics of Machine Learning**
+- 🌱 I’m currently learning **Blockchain Smart Contract Development using Solidity, Basics of Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource, Blockchain and Projects leveraging emerging technologies**
 
@@ -32,6 +33,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 ## 🚀 Languages and Tools:
 - **Programming Languages**
+<br/>
     <center>   
 		<table>
 			<tbody>
