@@ -83,7 +83,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 					</td>
                 </tr>
                 <tr>
-                    <td width="25%" align="center">
+                    <td>
                     </td>
                     <td width="25%" align="center">
 						<span><strong>React.js & Native</strong></span><br/>
