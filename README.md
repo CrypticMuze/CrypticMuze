@@ -119,7 +119,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
                 </td>
                 <td width="25%" align="center">
                     <span><strong>Express.js</strong></span><br/>
-                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/express.png">
+                    <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/express.svg">
                 </td>
                 <td width="25%" align="center">
                     <span><strong>MongoDB</strong></span><br/>
@@ -127,7 +127,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
                 </td>
                 <td width="25%" align="center">
                     <span><strong>MySQL</strong></span><br/>
-                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/mysql.png">
+                    <img height="64px" width="64px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">
                 </td>
                 <td width="25%" align="center">
                     <span><strong>Node.js</strong></span><br/>
@@ -138,23 +138,66 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
     </table>
 </div>
 
-- ***Blockchain-oriented Technologies***
-<p align="center"> 
-    <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="40" height="40"/> </a>  
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/docker.png" alt="Docker" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://golang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png" alt="GoLang" width="40" height="40"/> </a>
-    <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="48" height="48"/></a>
-    <a href="https://in.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="MATLAB" width="48" height="48"/></a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/php.png"/></a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <a href="https://www.r-project.org/about.html" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/circled-r.png" alt="R Language" width="48" height="48"/></a>
+- ***Technologies I use for Blockchain Development***
+<div align="center">    
+    <table>
+        <tbody>
+            <tr>
+                <td width="25%" align="center">
+                    <span><strong>GoLang</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/golang.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Kotlin</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/kotlin.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>PHP</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/fluent/48/000000/php.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Solidity</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/external-vitaliy-gorbachev-lineal-color-vitaly-gorbachev/60/000000/external-blockchain-cryptocurrency-vitaliy-gorbachev-lineal-color-vitaly-gorbachev-1.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>TypeScript</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/typescript.png">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
-</p>
+- ***Other Technologies***
+<div align="center">    
+    <table>
+        <tbody>
+            <tr>
+                <td width="25%" align="center">
+                    <span><strong>AWS</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Bash</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/plasticine/100/000000/bash.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Docker</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/fluent/48/000000/docker.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Git</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/git.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Postman</strong></span><br/>
+                    <img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 <br/>
 
 <p align="center">
