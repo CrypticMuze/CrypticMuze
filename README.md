@@ -31,83 +31,113 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 ## 🚀 Languages and Tools:
 - ***Programming Languages***
-    <div align="center">    
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>C++</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/python.png">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+<div align="center">    
+    <table>
+        <tbody>
+            <tr>
+                <td width="25%" align="center">
+                    <span><strong>C++</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Java</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Python</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/python.png">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
 
 - ***Frontend Development Technologies***
-    <div align="center">  
-		<table>
-			<tbody>
-				<tr>
-                    <td width="25%" align="center">
-						<span><strong>Angular.js</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>CSS3</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/css3.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>HTML5</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>MaterialUI</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
-					</td>
-                </tr>
-                <tr align="center">
-                    <td width="25%" align="center">
-						<span><strong>MaterialUI</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>React.js & Native</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>Redux</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/redux.png">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Sass</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/sass.png">
-					</td>
-                    <td width="25%" align="center">
-						<span><strong>Vue.js</strong></span><br/>
-						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/vue-js.png">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</div>
+<div align="center">  
+    <table>
+        <tbody>
+            <tr>
+                <td width="25%" align="center">
+                    <span><strong>Angular.js</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Bootstrap</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>CSS3</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/css3.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>HTML5</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Javascript</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>MaterialUI</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
+                </td>
+            </tr>
+            <tr align="center">
+                <td width="25%" align="center">
+                    <span><strong>MaterialUI</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>React.js & Native</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Redux</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/redux.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Sass</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/sass.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Vue.js</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/vue-js.png">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 - ***Backend Development Technologies***
+<div align="center">    
+    <table>
+        <tbody>
+            <tr>
+                <td width="25%" align="center">
+                    <span><strong>Firebase</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/firebase.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Express.js</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/expressjs.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>MongoDB</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/mongodb.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>MySQL</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/mysql.png">
+                </td>
+                <td width="25%" align="center">
+                    <span><strong>Node.js</strong></span><br/>
+                    <img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/nodejs.png">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 - ***Blockchain-oriented Technologies***
 <p align="center"> 
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
