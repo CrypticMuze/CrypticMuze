@@ -32,6 +32,8 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 - 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
+- 📄 My CV/Resume: **[Click Here](https://drive.google.com/file/d/1Ocs1eB8e6wX4qeLo7jqcFX26c9dyIi5B/view?usp=sharing)**
+
 ## 🚀 Languages and Tools:
 - ***Programming Languages***
 <div align="center">    
