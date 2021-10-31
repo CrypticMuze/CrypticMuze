@@ -77,8 +77,16 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 						<span><strong>Javascript</strong></span><br/>
 						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
 					</td>
+                    <td width="25%" align="center">
+						<span><strong>MaterialUI</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>MaterialUI</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
+					</td>
                 </tr>
-                <tr>
+                <tr align="center">
                     <td width="25%" align="center">
 						<span><strong>MaterialUI</strong></span><br/>
 						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/material-ui.png">
