@@ -6,13 +6,11 @@
 <p align="center"><b>
 I am a 21 Y/O Software developer from India experienced in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for full-stack web development. I'm passionate about the different ways emerging industries can leverage emerging technologies to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms.
 
-<center>
-    ![age](https://img.shields.io/badge/age-21-blue)
-    ![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
-    ![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
-    ![living](https://img.shields.io/badge/living-Pune-3c9)
-    ![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
-</center>
+![age](https://img.shields.io/badge/age-21-blue)
+![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
+![focus#2](https://img.shields.io/badge/focus-Web_Development-orange)
+![living](https://img.shields.io/badge/living-Pune-3c9)
+![education](https://img.shields.io/badge/college-VIT,_Vellore-red)
 </b></p>
 
 ## 🙋‍♂️ About Me
@@ -33,7 +31,6 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 ## 🚀 Languages and Tools:
 - **Programming Languages**
-<br/>
     <center>   
 		<table>
 			<tbody>
@@ -54,38 +51,77 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 			</tbody>
 		</table>
 	</center>
+
+- **Frontend Development Technologies**
+    <center>   
+		<table>
+			<tbody>
+				<tr>
+                    <td width="25%" align="center">
+						<span><strong>Angular.js</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/angularjs.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>Bootstrap</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>CSS3</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/css3.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>HTML5</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/html-5.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>Javascript</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>MaterialUI</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/javascript.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>React.js</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/react-native.png">
+					</td>
+                </tr>
+                <tr>
+					<td width="25%" align="center">
+						<span><strong>Sass</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/sass.png">
+					</td>
+                    <td width="25%" align="center">
+						<span><strong>Vue.js</strong></span><br/>
+						<img height="64px" width="64px" src="https://img.icons8.com/color/48/000000/vue-js.png">
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</center>
+- **Backend Development Technologies**
+- **Blockchain-oriented Technologies**
 <p align="center"> 
-    <a href="https://angular.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="40" height="40"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://isocpp.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="40" height="40"/> </a>  
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/docker.png" alt="Docker" width="40" height="40"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://golang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/golang.png" alt="GoLang" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/kotlin.png" alt="kotlin" width="48" height="48"/></a>
     <a href="https://in.mathworks.com/products/matlab.html" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/matlab.png" alt="MATLAB" width="48" height="48"/></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.php.net/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/php.png"/></a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>    
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
     <a href="https://www.r-project.org/about.html" target="_blank"><img src="https://img.icons8.com/ios-filled/50/4a90e2/circled-r.png" alt="R Language" width="48" height="48"/></a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass.png" alt="R Language" width="40" height="40"/> </a>
-    <a href="https://vuejs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="Vue" width="40" height="40"/> </a>
 
 </p>
 <br/>
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Aman Anand's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CrypticMuze&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="CrypticMuze's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CrypticMuze&theme=radical&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
