@@ -18,13 +18,13 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 - 🏫 I'm currenlty pursuing my **B.Tech UG Degree** from **[Vellore Institute of Technology, Vellore](https://vit.ac.in/)**
 
-<!-- - 🏢 I'm currently employed as a **Developer (Internship)** at **[Wharf Street Strategies](https://wharfstreetstrategies.com/)** -->
+- 🏢 Incoming **SDE Intern '22** at **[Fiserv, India](https://www.fiserv.com/)**
 
-<!-- - 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)** -->
-
-- 👷‍♂️ Something I am a pursuing right now as a developer: **[Indian Ocean Protocol (DAO Outreach Programme)](https://oceanacademy.io/)**|| Some additional information can be found **[here](https://port.oceanprotocol.com/t/indian-ocean-program-an-extended-dao-outreach-initiative/985)** and **[here](https://drprk.notion.site/drprk/DeFi-Talent-Builder-DAO-India-Public-Page-2883f5a8b02c4d76b65fb03826efe87d)**
+- 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
 
 - 👷‍♂️ Some collegiate organizations I am a part of: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
+
+- 💻 Something I am a pursuing right now as a developer: **[Indian Ocean Protocol (DAO Outreach Programme)](https://oceanacademy.io/)** || Some additional information can be found **[here](https://port.oceanprotocol.com/t/indian-ocean-program-an-extended-dao-outreach-initiative/985)** and **[here](https://drprk.notion.site/drprk/DeFi-Talent-Builder-DAO-India-Public-Page-2883f5a8b02c4d76b65fb03826efe87d)**
 
 - 🌱 I’m currently learning **Blockchain Smart Contract Development using Solidity, Basics of Machine Learning**
 
