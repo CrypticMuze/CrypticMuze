@@ -31,7 +31,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 ## 🚀 Languages and Tools:
 - **Programming Languages**
-    <center>   
+    <div align="center">    
 		<table>
 			<tbody>
 				<tr>
@@ -50,10 +50,10 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 				</tr>
 			</tbody>
 		</table>
-	</center>
+	</div>
 
 - **Frontend Development Technologies**
-    <center>   
+    <div align="center">  
 		<table>
 			<tbody>
 				<tr>
@@ -102,7 +102,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 				</tr>
 			</tbody>
 		</table>
-	</center>
+	</div>
 - **Backend Development Technologies**
 - **Blockchain-oriented Technologies**
 <p align="center"> 
