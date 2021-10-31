@@ -1,7 +1,7 @@
 <a href="#"><img width="125%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">नमस्ते (Namaste) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
-<h3 align="center">I'm a passionate AI, ML, Blockchain and MERN developer from India.</h3>
+<h1 align="center">Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aman Anand aka <i>CrypticMuze</i></h1>
+<h3 align="center">I'm a passionate Blockchain and MERN-stack software developer from India.</h3>
 
 <p align="center"><b>
 I am a 21 Y/O Software developer from India experienced in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for full-stack web development. I'm passionate about the different ways emerging industries can leverage emerging technologies to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms.
@@ -22,11 +22,13 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 <!-- - 🔭 I’m currently working on **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)** -->
 
-- 👷‍♂️ I'm currently part of the following organizations: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
+- 👷‍♂️ Something I am a pursuing right now as a developer: **[Indian Ocean Protocol (DAO Outreach Programme)](https://oceanacademy.io/)**|| Some additional information can be found **[here](https://port.oceanprotocol.com/t/indian-ocean-program-an-extended-dao-outreach-initiative/985)** and **[here](https://drprk.notion.site/drprk/DeFi-Talent-Builder-DAO-India-Public-Page-2883f5a8b02c4d76b65fb03826efe87d)**
+
+- 👷‍♂️ Some collegiate organizations I am a part of: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
 - 🌱 I’m currently learning **Blockchain Smart Contract Development using Solidity, Basics of Machine Learning**
 
-- 👯 I’m looking to collaborate on **OpenSource, Blockchain and Projects leveraging emerging technologies**
+- 👯 I’m looking to collaborate on **OpenSource, Blockchain, MERN Stack or other projects leveraging emerging technologies**
 
 - 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
