@@ -27,7 +27,7 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain Smart Con
 
 - 🌱 I’m currently learning **Blockchain (ETH Based) Development, Fullstack Development (MERN based), Django and Node based backend**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource & Blockchain Projects**
 
 - 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
@@ -69,8 +69,8 @@ I am a 21 Y/O Software developer from India with a focus in Blockchain Smart Con
 </p>
 
 ## 📊 My Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="left" alt="Aman Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CrypticMuze&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" alt="Aman Anand's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticMuze&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Aman Anand's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CrypticMuze&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" alt="Aman Anand's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrypticMuze&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
 <br/>
