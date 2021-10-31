@@ -30,7 +30,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 - 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
 ## 🚀 Languages and Tools:
-- **Programming Languages**
+- ***Programming Languages***
     <div align="center">    
 		<table>
 			<tbody>
@@ -52,7 +52,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 		</table>
 	</div>
 
-- **Frontend Development Technologies**
+- ***Frontend Development Technologies***
     <div align="center">  
 		<table>
 			<tbody>
@@ -107,8 +107,8 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 			</tbody>
 		</table>
 	</div>
-- **Backend Development Technologies**
-- **Blockchain-oriented Technologies**
+- ***Backend Development Technologies***
+- ***Blockchain-oriented Technologies***
 <p align="center"> 
     <a href="https://aws.amazon.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="40" height="40"/> </a>
     <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/bash.png" alt="Bash" width="40" height="40"/> </a>  
