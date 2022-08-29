@@ -4,7 +4,7 @@
 <h3 align="center">I'm a passionate Blockchain and MERN-stack software developer from India.</h3>
 
 <p align="center"><b>
-I am a 21 Y/O Software developer from India experienced in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for full-stack web development. I'm passionate about the different ways emerging industries can leverage emerging technologies to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms.
+I am a 22 Y/O Software developer from India experienced in Blockchain Smart Contract Development using Solidity and leveraging the MERN stack for full-stack web development. I'm passionate about the different ways emerging industries can leverage emerging technologies to optimize efficiency. I like to deconstruct things to understand them, explore software scalability problems, and improve the efficiency and performance of algorithms.
 
 ![age](https://img.shields.io/badge/age-21-blue)
 ![focus#1](https://img.shields.io/badge/focus-Blockchain_Development-brightgreen)
@@ -20,19 +20,19 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 - 🏢 Incoming **SE1 '23** at **[Providence, India](https://www.providence.in/)** || **Technology Analyst Intern '22** at **[Fiserv, India](https://www.fiserv.com/)**
 
-[//]: # "- 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**"
+[//]: - 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
 
 - 👷‍♂️ Some collegiate organizations I am a part of: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
 - 💻 Something I am a pursuing right now as a developer: **[Indian Ocean Protocol (DAO Outreach Programme)](https://oceanacademy.io/)** || Some additional information can be found **[here](https://port.oceanprotocol.com/t/indian-ocean-program-an-extended-dao-outreach-initiative/985)** and **[here](https://drprk.notion.site/drprk/DeFi-Talent-Builder-DAO-India-Public-Page-2883f5a8b02c4d76b65fb03826efe87d)**
 
-- 🌱 I’m currently learning **Blockchain Smart Contract Development using Solidity, Basics of Machine Learning**
+- 🌱 I’m currently learning **Working with [Flutter](https://flutter.dev/)**
 
 - 👯 I’m looking to collaborate on **OpenSource, Blockchain, MERN Stack or other projects leveraging emerging technologies**
 
 - 📫 How to reach me: **[E-mail](mailto:a.anand2k19@gmail.com)** or message me on **[LinkedIN](https://www.linkedin.com/in/amanxanand/)**
 
-- 📄 My CV/Resume: **[Click Here](https://drive.google.com/file/d/1Ocs1eB8e6wX4qeLo7jqcFX26c9dyIi5B/view?usp=sharing)**
+- 📄 My CV/Resume: **[Click Here](https://drive.google.com/drive/folders/1fKzDyeh-8Rj5OzowOen4tAbFMK4z4gmO?usp=sharing)**
 
 ## 🚀 Languages and Tools:
 - ***Programming Languages***
