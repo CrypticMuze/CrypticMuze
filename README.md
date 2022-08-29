@@ -20,7 +20,7 @@ I am a 21 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 - 🏢 Incoming **SE1 '23** at **[Providence, India](https://www.providence.in/)** || **Technology Analyst Intern '22** at **[Fiserv, India](https://www.fiserv.com/)**
 
-[//]: - 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
+[//]: # "- 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**"
 
 - 👷‍♂️ Some collegiate organizations I am a part of: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
 
