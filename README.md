@@ -20,9 +20,9 @@ I am a 22 Y/O Software developer from India experienced in Blockchain Smart Cont
 
 - 🏢 Incoming **SE1 '23** at **[Providence, India](https://www.providence.in/)** || **Technology Analyst Intern '22** at **[Fiserv, India](https://www.fiserv.com/)**
 
-[//]: - 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**
+[//]: # "- 🔭 The project I’m currently working on: **[HealthHub: Reinventing Patient Care](https://github.com/CrypticMuze/Health_Hub)**"
 
-- 👷‍♂️ Some collegiate organizations I am a part of: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[Entrepreneurship Cell, VIT Vellore](https://ecellvit.com/)** || **[VIT Today](https://www.vittoday.com/)**
+- 👷‍♂️ Some collegiate organizations I am a part of: **[TEDxVITVellore](https://www.instagram.com/tedxvitvellore/)** || **[VIT Today](https://www.vittoday.com/)**
 
 - 💻 Something I am a pursuing right now as a developer: **[Indian Ocean Protocol (DAO Outreach Programme)](https://oceanacademy.io/)** || Some additional information can be found **[here](https://port.oceanprotocol.com/t/indian-ocean-program-an-extended-dao-outreach-initiative/985)** and **[here](https://drprk.notion.site/drprk/DeFi-Talent-Builder-DAO-India-Public-Page-2883f5a8b02c4d76b65fb03826efe87d)**
 
